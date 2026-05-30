@@ -12,10 +12,14 @@ NeuroFusion AI is a predictive healthcare platform that combines:
 
 ### Repository Contents
 
-- app.py → Predictive AI prototype
-- prototype.py → Risk prediction model
-- requirements.txt → Project dependencies
-- Website Demo → NeuroFusion AI presentation platform
+- app.py → Interactive NeuroFusion AI risk prediction prototype
+- requirements.txt → Required Python libraries
+- Research Documentation → NeuroFusion AI research and project documentation
+- Live Website → https://neurofusion-aiexpo-2026-rawaahamadneh.netlify.app/
+
+## Innovation
+
+NeuroFusion AI introduces a personalized NeuroDigital Twin that continuously learns from wearable biosignals, smartphone behavioral patterns, and family-health history to identify potential health risks before symptoms appear.
 
 ### Live Demo
 
